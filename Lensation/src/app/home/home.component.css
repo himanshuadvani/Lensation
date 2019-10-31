@@ -2,11 +2,10 @@
 	background-image: url('src/assets/images/background_image2.jpg');
 	background-position:center;
 	background-repeat:no-repeat;
-	height: 700px;
+	height: 300px;
     width:100%;
     background-size: cover;
 	display: inline-block;
 	opacity: .8;
 	filter: blur(.5px);
-
 }

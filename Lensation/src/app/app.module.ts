@@ -8,6 +8,7 @@ import { AboutComponent } from './about/about.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { ContactComponent } from './contact/contact.component';
 import { FaqComponent } from './faq/faq.component';
+import { NavEffectDirective } from './nav-effect.directive';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { FaqComponent } from './faq/faq.component';
     AboutComponent,
     PortfolioComponent,
     ContactComponent,
-    FaqComponent
+    FaqComponent,
+    NavEffectDirective
   ],
   imports: [
     BrowserModule,
